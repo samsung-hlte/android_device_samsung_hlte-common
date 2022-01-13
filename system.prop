@@ -58,3 +58,6 @@ ro.lineage.build.vendor_security_patch=2016-06-01
 
 # Wifi
 wifi.interface=wlan0
+
+# Bpf
+ro.kernel.ebpf.supported=false
