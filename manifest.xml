@@ -24,5 +24,9 @@
             <name>ITouchscreenGesture</name>
             <instance>default</instance>
         </interface>
+        <interface>
+            <name>IKeyDisabler</name>
+            <instance>default</instance>
+        </interface>
     </hal>
 </manifest>
