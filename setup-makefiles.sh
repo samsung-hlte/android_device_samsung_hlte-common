@@ -32,7 +32,7 @@ source "${HELPER}"
 setup_vendor "${DEVICE_COMMON}" "${VENDOR}" "${ANDROID_ROOT}" true
 
 # Warning headers and guards
-write_headers "hlte hltechn hltekor hltetmo"
+write_headers "hlte h3gduoschn h3gduosctc hltechn hltekor hltetmo"
 
 # The standard common blobs
 write_makefiles "${MY_DIR}/common-proprietary-files.txt" true
